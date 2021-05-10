@@ -5,7 +5,7 @@
 
 ### Results: from the good quality picture like in the right corner result is as follows
 
-![### source-result ](art.jpg)
+![### wordcloud in particular shape ](https://github.com/len-sla/word_cloud/blob/first/word-cloud.PNG)
 
 
 
