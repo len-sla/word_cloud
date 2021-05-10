@@ -3,7 +3,7 @@
 <br>
 
 
-### In this particular case is content of the book about microbiome
+### In this particular case input is content of the book about microbiome
 
 ![### wordcloud in particular shape ](https://github.com/len-sla/word_cloud/blob/first/word-cloud.PNG)
 
