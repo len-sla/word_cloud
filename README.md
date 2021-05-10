@@ -3,7 +3,7 @@
 <br>
 
 
-### Results: from the good quality picture like in the right corner result is as follows
+### In this particular case is content of the book about microbiome
 
 ![### wordcloud in particular shape ](https://github.com/len-sla/word_cloud/blob/first/word-cloud.PNG)
 
