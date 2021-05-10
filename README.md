@@ -1,7 +1,5 @@
-## Project Name LineArt
-> <p>The main aim of the project is to check possibility of quick tranforming portrait pictures 
-Transform picture to sketch like form which is  not  possible with the usage of of openCV kernels. <br>
-First phase already trained models will be used in this case from github [LineArt ](https://github.com/vijishmadhavan/ArtLine) .<br>
+## Word cloud 
+> <p>Word cloud is an effective way of visualizing the texts similary like charts for categorical data. From a pool of texts, you can see which words are the dominants. Just by looking at this visualization, you know the mode of the text. Additionally word cloud is displayed in custom shape characterised by image. .<br>
 <br>
 
 
@@ -13,11 +11,8 @@ First phase already trained models will be used in this case from github [LineAr
 
 ### Technologies
 * Python, 
-* fastai
 
 
-### Setup
-easiest is to install/update libraries accordnig to install secion in notebook
 
 
 
