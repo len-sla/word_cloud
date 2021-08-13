@@ -9,7 +9,7 @@
 
 
 
-### Technologies
+### Language
 * Python, 
 
 
